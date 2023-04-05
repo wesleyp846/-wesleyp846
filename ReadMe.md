@@ -1,5 +1,3 @@
-# 🖐️ About Me:
-Estudante de programação Python e desenvolvimento Full Stack<br>Graduando em Analise e Desenvolvimento de Sistemas<br>Disponível para estágio e free lancer.
 ### Olá! Sou Wesley Pereira, Estudante de programação Python e desenvolvimento Full Stack<br>Graduando em Analise e Desenvolvimento de Sistemas 🖐️
 
 ## 🌐 Socials:
