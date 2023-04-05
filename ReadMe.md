@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 🖐️ About Me:
 Estudante de programação Python e desenvolvimento Full Stack<br>Graduando em Analise e Desenvolvimento de Sistemas<br>Disponível para estágio e free lancer.
-
+### Olá! Sou Wesley Pereira, Estudante de programação Python e desenvolvimento Full Stack<br>Graduando em Analise e Desenvolvimento de Sistemas 🖐️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wesley-pereira-2156b948) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@wesleyp846) 
