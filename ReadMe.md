@@ -1,4 +1,4 @@
-### 🖐️ Sou Wesley Pereira!!!<br/> Estudante de programação Python e desenvolvimento Full Stack<br>Graduando em Analise e Desenvolvimento de Sistemas 
+### 🖐️ Sou Wesley Pereira!!!<br/> Estudante de programação em Python e Desenvolvimento Full Stack<br>Também graduando em Analise e Desenvolvimento de Sistemas 
 
 ## 🌐 Redes Sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesley-pereira-2156b948)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tec_wesleypereira) [![Gmail](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521970451118) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@wesleyp846)<br/>
