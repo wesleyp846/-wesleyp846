@@ -5,7 +5,6 @@
 
 ## Contatos
 - Email - wesleyp846@gmail.com<br/>
-- Telefone/Celular - [21970451118](https://wa.me/5521970451118)
 
 ##
 
