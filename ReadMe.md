@@ -14,6 +14,7 @@
 # 💻 Tech Stack:
 <div align="center" style="display: inline_block">
   <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />            
   <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
   <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
@@ -25,7 +26,7 @@
 </div>
 <div align="center" style="display: inline_block">
 <br/>
-Python - SQlite - Flet(Flutter) - VS Code - HTML5 - CSS3 - JavaScript - ReactJs - 
+Python - Django - SQlite - Flet(Flutter) - VS Code - HTML5 - CSS3 - JavaScript - ReactJs - 
 </div>
 
 ##
