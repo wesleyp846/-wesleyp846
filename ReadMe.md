@@ -30,6 +30,6 @@ Python - Django - SQlite - Flet(Flutter) - VS Code - HTML5 - CSS3 - JavaScript -
 
 ##
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![UML](https://img.shields.io/badge/UML-black?style=for-the-badge)
 
 [![](https://visitcount.itsvg.in/api?id=wesleyp846&icon=1&color=0)](https://visitcount.itsvg.in)
