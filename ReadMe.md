@@ -1,4 +1,4 @@
-### 🖐️ Sou Wesley Pereira!!!<br/> Estudante de programação em Python e desenvolvimento de Sistemas Full Stack<br>Graduando em Analise e Desenvolvimento de Sistemas 
+### 🖐️ Sou Wesley Pereira!!!<br/> Eterno estudante de JAVA e desenvolvimento de Sistemas Full Stack<br>Graduando em Analise e Desenvolvimento de Sistemas 
 
 ## 🌐 Redes Sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesleyp846)  <a href = "mailto:wesleyp846@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,7 +25,7 @@
 </div>
 <div align="center" style="display: inline_block">
 <br/>
-Python - Django - SQlite - Flet(Flutter) - VS Code - HTML5 - CSS3 - JavaScript - ReactJs - 
+Java - SringBoot - Python - Django - SQlite - Flet(Flutter) - VS Code - HTML5 - CSS3 - JavaScript - ReactJs - 
 </div>
 
 ##
